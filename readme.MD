@@ -11,6 +11,7 @@ A simple Employee Management System built using **Spring Boot** and **Spring Dat
 * Delete Employee
 * DTO and Entity mapping using MapStruct
 * Exception handling for employee not found
+* Unit testing using JUnit 5 and Mockito
 
 ## Technologies Used
 
@@ -21,6 +22,8 @@ A simple Employee Management System built using **Spring Boot** and **Spring Dat
 * MySQL
 * MapStruct
 * Maven
+* Junit 5
+* Mockito
 
 ## Project Structure
 
